@@ -51,11 +51,3 @@ const MovieDetails = () => {
 
 export default MovieDetails;
 
-
-{/* <p>{moviedetail.adult}</p>
-<img src={`${IMAGE_BASE_URL}${moviedetail.poster_path}`} alt={moviedetail.title} />
-<div>{moviedetail.title} </div>
-<p>{moviedetail.vote_count}</p>
-<p>{moviedetail.vote_count}</p>
-<p>{moviedetail.overview}</p>
-<button>Watch Now</button> */}

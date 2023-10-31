@@ -9,14 +9,8 @@ import { IoPauseSharp } from 'react-icons/io5';
 
 
 // import MovieList from './components/Movies';
-
-
 //create a state to handle the search values 
-
-
 //call the search endpoint and store the data in the state
-
-
 //pass the search data to movie list and display
 
 
